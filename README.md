@@ -34,6 +34,31 @@ The **Dim_Product** table is designed to provide detailed information about prod
 ### 4. **Dim_Date**
 The **Dim_Date** table helps segment the data based on time, with columns for year, month, and day, allowing for detailed time-series analysis.
 
+## Visualizations
+
+### 1. **Quantity Performance - Year-to-Date vs Period-to-Date**
+
+Below is a visual showcasing the **Quantity Performance** for 2023, including key metrics like **YTD**, **PTD**, and **GP%**, comparing product types and country-wise performance.
+
+![Quantity Performance](https://github.com/user-attachments/assets/4be45617-3a4c-42d0-af9c-89cef1e1f4dd)
+
+---
+
+### 2. **Account Profitability Segmentation**
+
+This visual displays the segmentation of accounts based on **GP%** and quantity, showing the relationship between profitability and sales volume.
+
+![Account Proftability Segmentation](https://github.com/user-attachments/assets/3224e537-2e4b-4416-9edc-00ea078ba27b)
+
+---
+
+### 3. **Country-Specific Performance**
+
+This visual highlights the performance of different countries, showing how sales and quantities compare across regions for **YTD** and **PTD**.
+
+![Country Specific Performance](https://github.com/user-attachments/assets/d6677730-bac1-413d-9c7b-7634e96c053b)
+
+
 ## Key Insights
 
 - **Sales Performance**: The report identifies key products based on sales performance, highlighting the highest-grossing products and their associated quantities sold.
@@ -44,11 +69,9 @@ The **Dim_Date** table helps segment the data based on time, with columns for ye
 ### Example Visual:
 Below is a visual extracted from the Power BI report, showcasing the **Quantity Performance** for 2023, including key metrics like **YTD**, **PTD**, and **GP%**, and comparing product types and country-wise performance.
 
-![Visualization](https://github.com/user-attachments/assets/dff9a03d-eb34-499b-8234-5ffa7f8356fe)
+![Visualizations](https://github.com/user-attachments/assets/5876d981-be19-4f9f-9abd-bd6f505f8d03)
 
 
 ## Conclusion
 
-This updated report, with new tables and columns, provides deeper insights into **Plant Co.**'s business performance. By analyzing sales, costs, products, and geographic regions, it helps identify opportunities for growth, efficiency improvements, and better decision-making in sales strategy and inventory management.
-
----
+This report provides deeper insights into **Plant Co.**'s business performance. By analyzing sales, costs, products, and geographic regions, it helps identify opportunities for growth, efficiency improvements, and better decision-making in sales strategy and inventory management.
