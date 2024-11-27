@@ -6,7 +6,7 @@ This report provides a detailed analysis of **Plant Co.**'s performance, focusin
 
 ## Data Sources
 
-### 1. **Fact_Sales** (Updated)
+### 1. **Fact_Sales** 
 The **Fact_Sales** table includes detailed transaction data, now with additional columns to better segment the sales data:
 - **Product_id**: Unique identifier for each product.
 - **Sales_USD**: Total sales in USD for the product.
